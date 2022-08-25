@@ -1,5 +1,5 @@
 /** Displays a loading animation */
-export class DsLoadingAnimation extends HTMLElement {
+export default class DsLoadingAnimation extends HTMLElement {
 
 
   // Properties
