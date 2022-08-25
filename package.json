@@ -1,0 +1,20 @@
+{
+  "name": "design-system-ui",
+  "version": "0.1.0",
+  "description": "En samling af UI elementer lavet med web components, som kan anvendes til at bygge brugergrænseflader.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SDFIdk/design-system-ui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SDFIdk/design-system-ui/issues"
+  },
+  "homepage": "https://github.com/SDFIdk/design-system-ui#readme"
+}
