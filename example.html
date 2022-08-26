@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="da">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Design-system-ui eksempler</title>
+    <style>
+      ds-loading-animation {
+        width: 40rem;
+        height: auto;
+      }
+    </style>
+  </head>
+  <body>
+
+    <h1>Design-system-ui eksempler</h1>
+
+    <ds-loading-animation></ds-loading-animation>
+
+    <script type="module">
+      import { DsLoadingAnimation } from './index.js'
+      
+      customElements.define('ds-loading-animation', DsLoadingAnimation)
+
+    </script>
+
+  </body>
+</html>
